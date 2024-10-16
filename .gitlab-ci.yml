@@ -1,5 +1,5 @@
 variables:
-  DOCKER_IMAGE_NAME: docker.io/asmasomlapurkar/nws_demo
+  DOCKER_IMAGE_NAME: docker.io/asma1304/nws_demo
   DOCKER_TAG: ${CI_COMMIT_SHORT_SHA}
   DOCKER_REGISTRY_URL_AUTH: https://index.docker.io/v1/
 
